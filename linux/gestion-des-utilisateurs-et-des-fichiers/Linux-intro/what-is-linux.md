@@ -46,7 +46,7 @@ From cloud storage and space rockets, to your car or refrigerator, there's a hig
 
 Linux is an ???.
 
-- operating system
+- operating system.
 - ordering system
 - operating software
 - ordering software
